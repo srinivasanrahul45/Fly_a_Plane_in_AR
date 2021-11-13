@@ -8,5 +8,5 @@ Repository for application file of "Fly AR". This application allows user to fly
 - Spawn 🌱 and destroy 💣 aircraft at need
 ## Requirements ✔️
 - AR Core supported Android Device
-- ## Suggestions
+## Suggestions
 - Suggestion are welcome 😊
